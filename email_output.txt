@@ -1,0 +1,20 @@
+Subject: Job Application: Python Developer - [Your Name]
+
+Dear HR Manager,
+
+I am writing to express my enthusiastic interest in the Python Developer position at TCS, as advertised on [mention where you saw the advertisement, e.g., the TCS Careers page, LinkedIn, Naukri.com]. With [X years, or "solid"] of experience in developing robust and scalable Python applications, I am confident that my skills and expertise align perfectly with the requirements of this role and the innovative environment at TCS.
+
+Throughout my career, I have honed my skills in various aspects of Python development, including [mention 2-3 key skills, e.g., building RESTful APIs, developing web applications with Django/Flask, data processing and analysis, automation scripting, or working with cloud platforms like AWS/Azure]. I am proficient in [mention a few specific technologies, e.g., SQL databases (PostgreSQL/MySQL), version control (Git), and have experience with testing frameworks and agile methodologies]. I thrive on translating complex business requirements into efficient, maintainable, and high-performance code.
+
+TCS's reputation for technological innovation, global leadership, and commitment to fostering talent deeply resonates with my professional aspirations. I am particularly drawn to your commitment to [mention a specific value if you know it, e.g., "digital transformation" or "creating future-ready solutions"] and am eager to contribute my problem-solving abilities and passion for development to such a dynamic and forward-thinking team.
+
+Please find my detailed resume attached for your review, which provides further insight into my qualifications, project experience, and achievements.
+
+Thank you for considering my application. I am available for an interview at your earliest convenience and look forward to the opportunity to discuss how I can contribute to TCS's continued success.
+
+Sincerely,
+
+[Your Full Name]
+[Your Phone Number]
+[Your Email Address]
+[Your LinkedIn Profile URL (Optional, but Recommended)]
